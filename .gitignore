@@ -1,0 +1,9 @@
+models/CBAMCNN_V*/
+models/HybridModel*/
+models/ShallowCNN_V*/
+
+*.h5
+*.pt
+*.csv
+*.xlsx
+*.png
