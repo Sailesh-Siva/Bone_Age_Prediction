@@ -1,9 +1,9 @@
-models/CBAMCNN_V*/
-models/HybridModel*/
-models/ShallowCNN_V*/
-
+*.zip
+*.png
 *.h5
 *.pt
 *.csv
 *.xlsx
-*.png
+*.index
+*.data-00000-of-00001
+
